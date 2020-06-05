@@ -6,6 +6,17 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+uploads/
+!uploads/baterias.svg
+!uploads/eletronicos.svg
+!uploads/lampadas.svg
+!uploads/oleo.svg
+!uploads/organicos.svg
+!uploads/papeis-papelao.svg
+
+*.sqlite
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
